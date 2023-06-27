@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
 version 1
 version 2
->>>>>>> 26d530a (file1 and file2 version 2)
